@@ -1,0 +1,8 @@
+com.pojdd.music.BuildConfig
+com.pojdd.music.R
+com.pojdd.music.R$color
+com.pojdd.music.R$raw
+com.pojdd.music.R$id
+com.pojdd.music.R$layout
+com.pojdd.music.R$mipmap
+com.pojdd.music.R$string
